@@ -1,0 +1,1 @@
+# collect_base_stalcraft
